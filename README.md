@@ -7,16 +7,15 @@ I love chatting and learning about web performance, accessibility, how to be a e
 
 ## Find me around the web 🕵🏾‍♀️
 - My personal site is at [farrant.me](https://farrant.me) 🏡
-- I tweet performance related stuff [@FarPixel](https://twitter.com/farpixel) 🐦
-- Occasionally I blog at [blog.farrant.me](https://blog.farrant.me) 🧠
-- I try to act professional on [LinkedIn](https://www.linkedin.com/in/joshfarrant/) 👨🏻‍💼
+- I occasionally tweet [@FarPixel](https://twitter.com/farpixel) 🐦
+- I act professional on [LinkedIn](https://www.linkedin.com/in/joshfarrant/) 👨🏻‍💼
 - For everything else there's josh@farrant.me 💌
 
 
 ## Fun facts 😎
-- I have my PPL could fly a plane before I could drive a car 👨🏻‍✈️
+- I have my PPL and I could fly a plane before I could drive a car 👨🏻‍✈️
 - Related; I once nearly fell out of a plane I was piloting 👻
-- I use far too many emojis 🎉🤖🦡
+- I clearly use far too many emojis 🎉🤖🦡
 
 
 <!--
