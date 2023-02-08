@@ -1,6 +1,6 @@
 # Hello, I'm Josh 🧞‍♂️
 
-I'm the Frontend Team Lead at allplants with a passion for open-source and making the web blazing fast and accessible for everyone. ✨
+I'm Principal Software Engineer at Beamery with a passion for open-source and making the web blazing fast and accessible for everyone. ✨
 
 I love chatting and learning about web performance, accessibility, how to be a effective mentor, and open-source in general. If you want to chat, get in touch! 💖
 
